@@ -1,0 +1,3 @@
+NewYork 72
+London 50
+Tokyo 85
