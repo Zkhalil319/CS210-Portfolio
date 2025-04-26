@@ -15,4 +15,4 @@ I use iterative Agile development (e.g., Scrum). In the future, I’ll adopt spr
 - Adapt to feedback (use retrospectives to improve).  
 
 ## Artifacts  
-- [Sprint Review and Retrospective](/CS250_Sprint_Review_Retrospective.pdf)  
+- [Sprint Review and Retrospective](/CS250_Sprint_Review_Retrospective.pdf)
