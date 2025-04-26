@@ -1,18 +1,18 @@
-CS 250 Portfolio Submission: Sprint Review & Retrospective
-Reflection Questions
-1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-To interpret user needs, I start by gathering requirements through methods like interviews, surveys, or direct feedback. User stories help by breaking down features into small, manageable tasks from the user’s perspective (e.g., "As a student, I want to submit assignments online so I can meet deadlines"). This keeps development focused on real user needs rather than assumptions.
+# CS 250 Portfolio Submission: Sprint Review & Retrospective
 
-2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I follow an iterative, Agile approach—building software in small increments and refining based on feedback. In the future, I want to use Scrum practices like sprint planning, daily stand-ups, and retrospectives to improve teamwork and adaptability. Continuous integration (CI) and test-driven development (TDD) are also processes I’d like to adopt.
+## Reflection Questions
 
-3. What does it mean to be a good team member in software development?
-A good team member:
+### 1. How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?  
+To interpret user needs, I gather requirements through interviews, surveys, or feedback. User stories (e.g., "As a student, I want to submit assignments online to meet deadlines") break features into manageable tasks from the user’s perspective, ensuring alignment with their needs.
 
-Communicates clearly (updates progress, asks for help).
+### 2. How do I approach developing programs? What Agile processes do I hope to incorporate?  
+I use iterative Agile development (e.g., Scrum). In the future, I’ll adopt sprint planning, daily stand-ups, and retrospectives to improve teamwork and adaptability.
 
-Collaborates (reviews peers’ code, pairs on tough problems).
+### 3. What does it mean to be a good team member in software development?  
+- Communicate clearly (share progress, ask for help).  
+- Collaborate (review peers’ code, pair on challenges).  
+- Respect deadlines (break tasks into subtasks).  
+- Adapt to feedback (use retrospectives to improve).  
 
-Respects deadlines (breaks tasks into subtasks, avoids blockers).
-
-Adapts to feedback (uses retrospectives to improve).
+## Artifacts  
+- [Sprint Review and Retrospective](/CS250_Sprint_Review_Retrospective.pdf)  
